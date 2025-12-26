@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Poorav — a software engineer passionate about building reliable, scalable distributed systems.
 
-💻 I’ve worked at Oracle Cloud, where I built Java-based services focused on resiliency and failure attribution in cloud-native environment. I also interned at Kaspar Companies, developing an end-to-end Python application that automated credit-application workflows and eliminated 11+ hours of manual work every month.
+💻 I’ve worked at Oracle Cloud as a Software Engineer for 3 years, where I built Java-based services focused on resiliency and failure attribution in cloud-native environment. I also interned at Kaspar Companies, developing an end-to-end Python application that automated credit-application workflows and eliminated 11+ hours of manual work every month.
 
 🌱 I’m currently building a production-grade DocuChat application that lets you talk to your documents, with the goal of deeply understanding the engineering behind RAG-based chat systems. I’m using LangChain, Python, MongoDB, Qdrant vector DB, and more — focusing on clean architecture, readability, performance, and real-world reliability.
 
@@ -11,7 +11,7 @@ I'm Poorav — a software engineer passionate about building reliable, scalable 
 
 🏃 Outside of work, I’m big on fitness and distance running — the consistency and discipline carry over into how I build software.
 
-📫 Let’s connect: [https://www.linkedin.com/in/pooravdesai]
+📫 Let’s connect: https://www.linkedin.com/in/pooravdesai
 
 <!--| [Portfolio link]
 
